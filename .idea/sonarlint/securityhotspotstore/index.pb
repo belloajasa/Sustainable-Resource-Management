@@ -5,3 +5,5 @@ L
 contracts/certification.clar,2/8/28224e37ba53d70868e7d7020ff8ca71138d80b2
 R
 "contracts/extraction-tracking.clar,9/f/9fdb434f2110b8259c67773bec63fd4ac83be276
+H
+contracts/reporting.clar,c/b/cb3f865f5236d2f1405a540b885a7dd2fb4b4adf
